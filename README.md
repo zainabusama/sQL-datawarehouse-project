@@ -16,7 +16,7 @@ SQL Server Management Studio (SSMS): The GUI used to manage the database and exe
 The scripts/ folder contains the core of my work, categorized for easy review:
 
 ```
-sql-ultimate-course/
+sql/
 │
 ├── datasets/                           # Raw datasets used for the course (ERP and CRM data)
 │
